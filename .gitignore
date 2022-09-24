@@ -1,0 +1,9 @@
+main
+urlencoding
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+vls.log
+.editorconfig
